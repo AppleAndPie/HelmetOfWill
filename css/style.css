@@ -87,10 +87,11 @@ header.hero .btn {
   margin: 3em 0;
 }
 
-social-links i {
- font-size: 50px;
- margin-bottom: 30px;
- colro: #37a7ff;
+ul.social-links a i {
+font-size: 20px;
+opacity: 0.6;
+font-weight: 400;
+color: #37a7ff;
 }
 
 ul.social-links li {
